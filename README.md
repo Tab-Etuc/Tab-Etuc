@@ -1,2 +1,4 @@
-# About-me
-自我介紹
+<center> # Hi there 👋 </center>
+I am a middle school student.
+
+Skills: Python
