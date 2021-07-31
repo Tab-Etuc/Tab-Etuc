@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm LO,SHAO-HSI</h1>
-<p align="center"> 🏫 I'm a junior high school student.</p>
+<p align="center">🏫 I'm a junior high school student.</p>
 
 <p align="center"> 🌱 I’m currently learning Python.</p>
 
