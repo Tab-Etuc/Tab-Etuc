@@ -22,18 +22,14 @@ const TabEtuc = {
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tab-Etuc's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Tab-Etuc&theme=holi-theme"/>
+    <img alt="Tab-Etuc's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Tab-Etuc&theme=holi-theme"/>
   </a>
 </p>
 
-<p align="center">
-  <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Tab-Etuc&bg_color=303031&color=42fff2&line=8fd4ff&point=ffffff&area=true&hide_border=true"/>
-  </a>
-</p>
+
 <hr>
 
-#### Languages / Frameworks / Tools:  
+#### 👨‍💻 Languages / Frameworks / Tools:  
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -53,3 +49,10 @@ const TabEtuc = {
 <a href="https://www.mongodb.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
+
+#### 📊 Github stats
+<p align="center">
+  <a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Tab-Etuc&bg_color=303031&color=42fff2&line=8fd4ff&point=ffffff&area=true&hide_border=true"/>
+  </a>
+</p>
