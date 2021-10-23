@@ -50,6 +50,7 @@ const TabEtuc = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 
+<hr>
 #### 📊 Github stats
 <p align="center">
   <a>
