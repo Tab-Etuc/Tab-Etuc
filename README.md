@@ -56,6 +56,11 @@ const TabEtuc = {
 #### 📊 Github stats
 <p align="center">
   <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Tab-Etuc&theme=onedark"/>
+  </a>
+</p>
+<p align="center">
+  <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=Tab-Etuc&bg_color=303031&color=42fff2&line=8fd4ff&point=ffffff&area=true&hide_border=true"/>
   </a>
 </p>
