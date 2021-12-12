@@ -23,7 +23,7 @@ const TabEtuc = {
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="Tab-Etuc's streak" src="https://github-cc.herokuapp.com?user=Tab-Etuc&theme=holi-theme&date_format=%5BY.%5Dn.j&fire=DD4900"/>
+    <img alt="Tab-Etuc's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Tab-Etuc&theme=holi-theme&date_format=%5BY.%5Dn.j&fire=DD4900"/>
   </a>
 </p>
 
