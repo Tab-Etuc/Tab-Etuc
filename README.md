@@ -11,9 +11,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 ```js
-const TabEtuc = {
+let TabEtuc = {
     Name: 羅少希, 
-    Age: 15,
+    Age: 16,
     Hope: "Get a computer that can be programmed smoothly. .-. ",
     Description: "I am learning to write programs.",
     FavouriteLanguage: "Javascript",
