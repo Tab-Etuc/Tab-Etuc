@@ -32,31 +32,31 @@ let TabEtuc = {
 
 #### 👨‍💻 Languages / Frameworks / Tools:  
 <a href="https://www.python.org" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 
 <a href="https://www.rust-lang.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 
 <a href="https://nodejs.org" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 
 <a href="https://vuejs.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank"> 
@@ -71,8 +71,4 @@ let TabEtuc = {
     <img src="https://github-profile-trophy.vercel.app/?username=Tab-Etuc&theme=onedark"/>
   </a>
 </p>
-<p align="center">
-  <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Tab-Etuc&bg_color=303031&color=42fff2&line=8fd4ff&point=ffffff&area=true&hide_border=true"/>
-  </a>
-</p>
+
